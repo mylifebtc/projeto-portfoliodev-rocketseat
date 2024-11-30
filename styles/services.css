@@ -1,0 +1,22 @@
+#container-service {
+  background-color: var(--gray-100);
+  width: 100%;
+}
+
+.header > h2 {
+  color: #E3646E;
+  font-size: 20px;
+  font-family: "Inconsolata", monospace;
+  line-height: 120%;
+  text-align: center;
+  padding-top: 88px;
+}
+
+.header > h3 {
+  font-family: "Asap", sans-serif;
+  color: var(--gray-600);
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: bold;
+  text-align: center;
+}

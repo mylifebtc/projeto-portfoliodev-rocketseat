@@ -1,0 +1,30 @@
+.work {
+  font-family: "Inconsolata", monospace;
+  color:#E3646E;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 72px;
+}
+#destaque {
+  color: var(--gray-600);
+  font-family: "Asap", sans-serif;
+  font: bold 24px/120%;
+  text-align: center;
+  margin-bottom: 56px;
+  margin-top: 8px;
+}
+.container-grid {
+  background-color: var(--gray-200);
+  height: 917px;
+  width: auto;
+}
+
+.grid-container {
+  background-color: var(--gray-200);
+  height: 917px;
+  width: auto;
+}
+
+

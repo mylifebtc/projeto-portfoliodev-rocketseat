@@ -1,0 +1,48 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding-top: 56px;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-bottom: 144px;
+}
+
+ .project-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--gray-300);
+  padding: 15px;
+  border-radius: 8px;
+  }
+
+.project-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.contentcard {
+  text-align: initial;
+  margin-top: 20px;
+ }
+
+
+.contentcard > h3 {
+  font-family: "Asap", sans-serif;
+  color: var(--gray-600);
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 120%;
+  margin-bottom: 8px;
+ }
+
+ .contentcard p {
+  font-family: "Maven Pro", sans-serif;
+  color: var(--gray-500);
+  font-size: 14px;
+  line-height: 140%;
+  font-weight: 400;
+ }

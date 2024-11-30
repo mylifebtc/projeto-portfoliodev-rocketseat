@@ -7,14 +7,10 @@ padding-top: 56px;
 font-weight: 400;
 }
 
-.container {
-  background-image: url(/assets/backgrounds-imgs/Background_Intro.png);
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 750px;
+.container {  
+  background: url(/assets/backgrounds-imgs/Background_Intro.png);
   background-size: cover;
   text-align: center;
-
 }
 
 .header {
@@ -26,7 +22,7 @@ font-weight: 400;
 }
 
 .user {
-  padding-top: 125px;
+  padding-top: 220px;
 }
 
 strong {
@@ -43,7 +39,6 @@ header > p {
 }
 
 
-
 ul  {
   font-family: "Maven Pro", sans-serif;
   line-height: 140%;
@@ -56,8 +51,6 @@ ul  {
   border-radius: 30px;
 }
 
-ul > img {
-}
 .GitHub{
 width: 24px;
 height: 24px;
@@ -104,5 +97,5 @@ font-family: "Maven Pro", sans-serif;
 
 .seta {
 margin-top: 94px;
-
 }
+
