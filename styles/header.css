@@ -22,7 +22,7 @@ font-weight: 400;
 }
 
 .user {
-  padding-top: 220px;
+  padding-top: 170px;
 }
 
 strong {
@@ -48,6 +48,7 @@ ul  {
   display: inline;
   background-color: var(--gray-300);
   border-radius: 30px;
+  text-align: center;
 }
 
 .GitHub{
