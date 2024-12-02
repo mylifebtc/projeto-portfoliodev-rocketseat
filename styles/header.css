@@ -29,7 +29,7 @@ strong {
   color: red;
 }
 
-header > p {
+#p {
   font-family: "Asap", sans-serif;
   color: var(--gray-400);
   font-size: 14px;
